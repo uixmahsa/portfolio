@@ -1930,5 +1930,7 @@ section {
   .portfolio #portfolio-flters li{font-size:11px;}
   .thisfont *{font-size:16px;}
   .colorpalette span{font-size: 12px;}
+  .wireframe img, .structure img, .pages img {
+    width: 100%;}
 }
 
