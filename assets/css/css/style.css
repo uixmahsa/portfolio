@@ -1934,5 +1934,6 @@ section {
   .colorpalette span{font-size: 12px;}
   .wireframe img, .structure img, .pages img {
     width: 100%;}
+  .clrplt .col{height:100%;}
 }
 
