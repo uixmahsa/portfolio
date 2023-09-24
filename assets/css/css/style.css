@@ -1930,6 +1930,7 @@ section {
   .swiper{width: 320px;height: 320px;}
   .portfolio #portfolio-flters li{font-size:11px;}
   .thisfont *{font-size:16px;}
+  .typography.thisfont{padding: 15px 20px;}
   .colorpalette span{font-size: 12px;}
   .wireframe img, .structure img, .pages img {
     width: 100%;}
