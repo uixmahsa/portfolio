@@ -1121,6 +1121,7 @@ section {
 .portfolio-details .portfolio-info ul li + li {
   margin-top: 10px;
 }
+.portfolio-info a{text-decoration:none;}
 
 .portfolio-details .portfolio-description {
   padding-top: 30px;
