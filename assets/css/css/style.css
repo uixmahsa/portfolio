@@ -1932,8 +1932,9 @@ section {
   .thisfont *{font-size:16px;}
   .typography.thisfont{padding: 15px 20px;}
   .colorpalette span{font-size: 12px;}
-  .wireframe img, .structure img, .pages img {
+  .wireframe img, .structure img, .pages img, .footer .container .slider .logos img {
     width: 100%;}
   .clrplt .col{height:100%;}
+  #header .logo img{width:73%;}
 }
 
