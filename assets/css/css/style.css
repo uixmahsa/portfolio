@@ -1944,6 +1944,7 @@ section {
   #header .logo img{width:68%!important}
   .footer .container .slider .logos .fab{width:42%!important;background-repeat: no-repeat;margin:0 42px;} 
   nav,.hide{display:none!important;}
+  .fixed-top{position:relative!important;}
    
 }}
   
