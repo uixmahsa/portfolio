@@ -1936,13 +1936,14 @@ section {
   .thisfont *{font-size:16px;}
   .typography.thisfont{padding: 15px 20px;}
   .colorpalette span{font-size: 12px!important;}
-  .wireframe img, .structure img, .pages img{
-    width: 100%!important;}
+  .wireframe img, .structure img, .pages img{width: 100%!important;}
   .clrplt .col{height:100%;}
   .clrplt{margin-bottom:100px!important;}
-  #header .logo img, .footer .container .slider .logos .fab{width:42%!important;background-repeat: no-repeat;}
-  .footer .container .slider .logos .fab{margin-right:12px;}
-  
+  #hero .container-fluid {padding-top: 35px;}
+  #header h1.logo{text-align:center;}
+  #header .logo img{width:68px!important}
+  .footer .container .slider .logos .fab{width:42%!important;background-repeat: no-repeat;margin-right:42px;}  
+   
 }}
   
 
