@@ -1936,7 +1936,7 @@ section {
   .wireframe img, .structure img, .pages img, .footer .container .slider .logos img {
     width: 100%;}
   .clrplt .col{height:100%;}
-  .clrplt{margin-bottom:120px!important;}
+  .clrplt{margin-bottom:100px!important;}
   #header .logo img{width:73%;}
 }
 @media screen and (max-width: 473px) {
