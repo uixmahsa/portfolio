@@ -1940,7 +1940,8 @@ section {
     width: 100%!important;}
   .clrplt .col{height:100%;}
   .clrplt{margin-bottom:100px!important;}
-  #header .logo img, .footer .container .slider .logos .fab{width:56%!important;background-repeat: no-repeat;}
+  #header .logo img, .footer .container .slider .logos .fab{width:42%!important;background-repeat: no-repeat;}
+  .info-box.box-map{display:none;}
 }}
   
 
