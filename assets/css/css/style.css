@@ -1927,15 +1927,15 @@ section {
   .icons img{width: 93%!important;}
   #services span{font-size: 14px;}
   .mySwiper{margin-left:0!important;}
-  .swiper{width: 320px;height: 320px;}
+  .swiper{width: 320px!important;height: 320px!important;}
   .portfolio #portfolio-flters li{font-size:11px;}
   .thisfont *{font-size:16px;}
   .typography.thisfont{padding: 15px 20px;}
-  .colorpalette span{font-size: 12px;}
+  .colorpalette span{font-size: 12px!important;}
   .wireframe img, .structure img, .pages img, .footer .container .slider .logos img {
     width: 100%;}
   .clrplt .col{height:100%;}
-  .clrplt{margin-bottom:75px;}
+  .clrplt{margin-bottom:75px!important;}
   #header .logo img{width:73%;}
 }
 
