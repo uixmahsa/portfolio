@@ -1928,7 +1928,13 @@ section {
   //#services span{font-size: 14px;}
   .mySwiper{margin-left:0!important;}
   .swiper{width: 320px!important;height: 320px!important;}
-  .swiper-navigation-size,.swiper-button-next,.swiper-button-prev{width:22px!important;height:22px!important;}
+   --swiper-navigation-size: 11px;
+  
+  .swiper-button-next,.swiper-button-prev{
+    width: calc(var(--swiper-navigation-size)/ 44 * 27);
+    height: var(--swiper-navigation-size);
+    
+    //width:22px!important;//height:22px!important;}
   .portfolio #portfolio-flters li{font-size:11px;}
   .thisfont *{font-size:16px;}
   .typography.thisfont{padding: 15px 20px;}
