@@ -979,7 +979,7 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  border: 1px solid #eeece0;
+  border: 1px solid #ccccc0;
   border-radius: 15px;
   box-shadow: 0px 1px 4px 0px #e7e7e7;
 }
