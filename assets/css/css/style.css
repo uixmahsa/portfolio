@@ -1939,11 +1939,11 @@ section {
   .thisfont *{font-size:16px;}
   .typography.thisfont{padding: 15px 20px;}
   .colorpalette span{font-size: 12px!important;}
-  .wireframe img, .structure img, .pages img, .footer .container .slider .logos .fab{
+  .wireframe img, .structure img, .pages img{
     width: 100%!important;}
   .clrplt .col{height:100%;}
   .clrplt{margin-bottom:100px!important;}
-  #header .logo img{width:73%;}
+  #header .logo img,, .footer .container .slider .logos .fab{width:73%;background-repeat: no-repeat;}
 }
 @media screen and (max-width: 473px) {
  // #services span{font-size: 12px!important;padding: 0.2rem!important;}
