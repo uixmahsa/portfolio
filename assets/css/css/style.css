@@ -1941,7 +1941,8 @@ section {
   .clrplt .col{height:100%;}
   .clrplt{margin-bottom:100px!important;}
   #header .logo img, .footer .container .slider .logos .fab{width:42%!important;background-repeat: no-repeat;}
-  .info-box.box-map{display:none;}
+  .footer .container .slider .logos .fab{margin-right:12px;}
+  
 }}
   
 
