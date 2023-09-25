@@ -1944,6 +1944,7 @@ section {
   .clrplt .col{height:100%;}
   .clrplt{margin-bottom:100px!important;}
   #header .logo img,, .footer .container .slider .logos .fab{width:73%;background-repeat: no-repeat;}
+  #footer{background-size:100% 100%!important;}
 }
 @media screen and (max-width: 473px) {
  // #services span{font-size: 12px!important;padding: 0.2rem!important;}
