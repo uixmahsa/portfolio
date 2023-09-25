@@ -1935,6 +1935,7 @@ section {
   .wireframe img, .structure img, .pages img, .footer .container .slider .logos img {
     width: 100%;}
   .clrplt .col{height:100%;}
+  .clrplt{margin-bottom:30px;}
   #header .logo img{width:73%;}
 }
 
