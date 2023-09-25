@@ -1939,8 +1939,8 @@ section {
   .thisfont *{font-size:16px;}
   .typography.thisfont{padding: 15px 20px;}
   .colorpalette span{font-size: 12px!important;}
-  .wireframe img, .structure img, .pages img, .footer .container .slider .logos img {
-    width: 100%;}
+  .wireframe img, .structure img, .pages img, .footer .container .slider .logos .fab{
+    width: 100%!important;}
   .clrplt .col{height:100%;}
   .clrplt{margin-bottom:100px!important;}
   #header .logo img{width:73%;}
