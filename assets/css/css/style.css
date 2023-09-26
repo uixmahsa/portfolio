@@ -1942,7 +1942,7 @@ section {
   #hero .container-fluid {padding-top: 35px;}
   #header h1.logo{text-align:center;}
   #header .logo img{width:68%!important}
-  .footer .container .slider .logos .fab{width:42%!important;background-repeat: no-repeat;margin:0 9px;} 
+  .footer .container .slider .logos .fab{width:42%!important;background-repeat: no-repeat;margin:0 7px;} 
   nav,.hide{display:none!important;}
   .fixed-top{position:relative!important;top:0!important;background: #8227da;}
    
